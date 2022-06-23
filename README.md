@@ -1,25 +1,20 @@
-
-# Language's
-Python ![30%](https://progress-bar.dev/30)
-
-C# ![90%](https://progress-bar.dev/90)
-
-JavaScript ![50%](https://progress-bar.dev/50)
-
-
-# Country
-I from Poland
-
 ```
              ,\
              \\\,_
               \` ,\
          __,.-" =__)
        ."        )
-    ,_/   ,    \/\_ mrhazel
+    ,_/   ,    \/\_  mrhazel#1337
     \_|    )_-\ \_-`
        `-----` `--`
 ```
 
-# Profile Views
+### Languages
+```
+Lua
+JavaScript
+C#
+```
+
+### Profile Views
 ![CountViews](https://profile-counter.glitch.me/mrhazel/count.svg)
