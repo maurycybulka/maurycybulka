@@ -1,8 +1,10 @@
 
 # Language's
-Python ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30)
-C#![](https://us-central1-progress-markdown.cloudfunctions.net/progress/90)
-JavaScript ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+Python ![30%](https://progress-bar.dev/30)
+
+C# ![90%](https://progress-bar.dev/90)
+
+JavaScript ![50%](https://progress-bar.dev/50)
 
 
 # Country
